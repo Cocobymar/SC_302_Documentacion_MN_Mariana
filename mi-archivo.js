@@ -1,2 +1,3 @@
-// Este es un mensaje de saludo
-alert("hola mundo");
+// Nuevo mensaje de saludo
+alert("hola mundo_editado");
+console.log("cambios en el archivo");
